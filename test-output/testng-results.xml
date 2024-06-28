@@ -1,55 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+<testng-results ignored="6" total="6" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-27T10:35:48 EDT" name="Suite" finished-at="2024-06-27T10:36:19 EDT" duration-ms="30855">
+  <suite started-at="2024-06-28T10:00:45 EDT" name="Suite" finished-at="2024-06-28T10:00:45 EDT" duration-ms="12">
     <groups>
     </groups>
-    <test started-at="2024-06-27T10:35:48 EDT" name="Test" finished-at="2024-06-27T10:36:19 EDT" duration-ms="30855">
-      <class name="parallel_execution_testCases.Parallel_Part2">
-        <test-method signature="logic4()[pri:1, instance:parallel_execution_testCases.Parallel_Part2@51133c06]" started-at="2024-06-27T10:35:48 EDT" name="logic4" finished-at="2024-06-27T10:35:52 EDT" duration-ms="4164" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logic4 -->
-        <test-method signature="logic5()[pri:2, instance:parallel_execution_testCases.Parallel_Part2@51133c06]" started-at="2024-06-27T10:35:52 EDT" name="logic5" finished-at="2024-06-27T10:36:06 EDT" duration-ms="13987" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logic5 -->
-        <test-method signature="logic6()[pri:3, instance:parallel_execution_testCases.Parallel_Part2@51133c06]" started-at="2024-06-27T10:36:01 EDT" name="logic6" finished-at="2024-06-27T10:36:19 EDT" duration-ms="17558" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logic6 -->
-      </class> <!-- parallel_execution_testCases.Parallel_Part2 -->
-      <class name="parallel_execution_testCases.Parallel_Part1">
-        <test-method signature="logic2()[pri:2, instance:parallel_execution_testCases.Parallel_Part1@73d983ea]" started-at="2024-06-27T10:35:48 EDT" name="logic2" finished-at="2024-06-27T10:36:01 EDT" duration-ms="13231" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logic2 -->
-        <test-method signature="logic1()[pri:1, instance:parallel_execution_testCases.Parallel_Part1@73d983ea]" started-at="2024-06-27T10:35:48 EDT" name="logic1" finished-at="2024-06-27T10:35:54 EDT" duration-ms="5999" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logic1 -->
-        <test-method signature="logic1()[pri:1, instance:parallel_execution_testCases.Parallel_Part1@73d983ea]" started-at="2024-06-27T10:35:48 EDT" name="logic1" finished-at="2024-06-27T10:35:52 EDT" duration-ms="4239" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logic1 -->
-        <test-method signature="logic1()[pri:1, instance:parallel_execution_testCases.Parallel_Part1@73d983ea]" started-at="2024-06-27T10:35:48 EDT" name="logic1" finished-at="2024-06-27T10:35:55 EDT" duration-ms="7612" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logic1 -->
-        <test-method signature="logic1()[pri:1, instance:parallel_execution_testCases.Parallel_Part1@73d983ea]" started-at="2024-06-27T10:35:52 EDT" name="logic1" finished-at="2024-06-27T10:35:57 EDT" duration-ms="4680" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logic1 -->
-        <test-method signature="logic1()[pri:1, instance:parallel_execution_testCases.Parallel_Part1@73d983ea]" started-at="2024-06-27T10:35:54 EDT" name="logic1" finished-at="2024-06-27T10:36:01 EDT" duration-ms="7030" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logic1 -->
-        <test-method signature="logic3()[pri:3, instance:parallel_execution_testCases.Parallel_Part1@73d983ea]" started-at="2024-06-27T10:36:01 EDT" name="logic3" finished-at="2024-06-27T10:36:18 EDT" duration-ms="17367" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- logic3 -->
-      </class> <!-- parallel_execution_testCases.Parallel_Part1 -->
+    <test started-at="2024-06-28T10:00:45 EDT" name="Test" finished-at="2024-06-28T10:00:45 EDT" duration-ms="12">
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
