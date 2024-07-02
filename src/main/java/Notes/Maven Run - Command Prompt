@@ -1,0 +1,11 @@
+How to run Maven Project through Command Prompt
+
+Steps:
+
+1. Open Command Prompt
+2. Type 'cd' and then 'Enter' to Confirm Current Directory
+3. Type 'cd C:\give project directory path and then Enter - Directory should change to the project directory
+4. Type 'mvn complie' to comiple the maven project - If you see "Build Success" message at the end then it's fine
+5. Type 'mvn test' to execute the tests on the command prompt - Check the message. "Build Failure" or "Build Success"
+
+Maven test can also be 'run' from pom.xml file in Eclipse

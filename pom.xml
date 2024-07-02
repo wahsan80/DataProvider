@@ -227,7 +227,15 @@
         </plugin>
         <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
-          <version>2.22.1</version>
+          <version>3.2.5</version>
+          	<configuration>
+          		<suiteXmlFiles>
+          			<suiteXmlFile> testngProdEnv.xml </suiteXmlFile>
+          			<suiteXmlFile> testngTestEnv.xml </suiteXmlFile>
+          			<suiteXmlFile> testngUatEnv.xml </suiteXmlFile>
+          			<suiteXmlFile> target/surefire-reports/testng-failed.xml </suiteXmlFile>
+          		</suiteXmlFiles>
+          	</configuration>
         </plugin>
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>
